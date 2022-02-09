@@ -25,8 +25,7 @@ Beziehungssart (xxx)
 
 
 
-
-Codebuch Relationship:
+*Codebuch Relationship:*
 
 1 = Achtung: Regierung umfasst auch Staatsekretäre und das Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende Ministerium angegeben werden.       
 
@@ -43,8 +42,12 @@ Codebuch Relationship:
 7 = Studien- bzw. (längere) Aufenthaltsort(e) in In- und Ausland
 
 
-**Jahr der Erhebung**
+**Jahr der Erhebung**    
 (wann wurde diese Verbindung ermittelt)
+
+
+
+
 
 # NODE-Attribute  
   
@@ -118,28 +121,23 @@ Geburtsjahr eintragen
 
 
 
-**kids**
-
-Anzahl der Kinder
-
-
-**twitter**
-
-Anzahl der FollowerInnen
+**kids**     
+Anzahl der Kinder eintragen
 
 
-**instagram**
-
-Anzahl FollowerInnen
-
-
-**facebook**
-
-Anzahl FollowerInnen
+**twitter**   
+Anzahl der FollowerInnen eintragen
 
 
-**youtube**
+**instagram**   
+Anzahl FollowerInnen eintragen
 
-Anzahl AbonenntInnen
+
+**facebook**   
+Anzahl FollowerInnen eintragen
+
+
+**youtube**   
+Anzahl AbonenntInnen eintragen
 
 
