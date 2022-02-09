@@ -24,8 +24,8 @@ Beziehungssart (xxx)
 
 **type**  
 Beziehungsstärke aufgrund der Nennung in den Fragen)  
-1 = Person,   
-1 = Institution
+1 = Person   
+2 = Institution
 
 **Jahr der Erhebung**
 (wann wurde diese Verbindung ermittelt)
