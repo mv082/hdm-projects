@@ -53,7 +53,6 @@ Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 Geburtsjahr eintragen
 
 
-
 **religion**    
 
 1 = römisch-katholisch   
@@ -62,17 +61,21 @@ Geburtsjahr eintragen
 4 = andere  
 
 
-
-
 **education**
 ()
-1 = mittlere Reife		
-2 = Fachhochschulreife		
-3 = Abitur		
-4 = Fachhochschulabschluss		
-5 = universitärer Abschluss		
-6 = Promotion		
-7 = abgeschlossene Berufsausbildung		
+
+
+
+1 = mittlere Reife   
+2 = Fachhochschulreife   
+3 = Abitur    
+4 = Fachhochschulabschluss  
+5 = universitärer Abschluss   
+6 = Promotion   
+7 = abgeschlossene Berufsausbildung    
+
+
+
 
 
 **subject**
