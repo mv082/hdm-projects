@@ -22,6 +22,11 @@ Beziehungssart (xxx)
 6 = Berufstätigkeiten	
 7 = Studien- bzw. längere Aufenthalte in In- und Ausland.
 
+**weight**  
+Beziehungsstärke aufgrund der Nennung in den Fragen)  
+3 = sehr starke Beziehung (erste Nennung),   
+1 = starke Beziehung vorhanden (zweite Nennung)
+
 **Jahr der Erhebung**
 (wann wurde diese Verbindung ermittelt)
 
