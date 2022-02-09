@@ -12,12 +12,13 @@ initiierender Knoten, in diesem Fall: PolitikerIn
 
 **relationship**  
 Beziehungssart (xxx)
-1= Ministerium/ Staatssekretär			
-2= politische Funktionen			
-3= Ehrenamt			
-4= Unternehmen und Aufsichtsräte			
-5= Stipendien			
-6= Berufstätigkeiten			
+1= Ministerium/ Staatssekretär
+
+2= politische Funktionen,
+3= Ehrenamt,			
+4= Unternehmen und Aufsichtsräte,
+5= Stipendien,			
+6= Berufstätigkeiten,		
 7= Studien- bzw. längere Aufenthalte in In- und Ausland
 
 **Jahr der Erhebung**
