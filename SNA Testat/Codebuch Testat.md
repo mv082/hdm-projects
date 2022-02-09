@@ -6,7 +6,7 @@
 (eindeutige Codierung des Knoten)   
 codiert von 1 bis xx, jede ID entspricht PolitikerInnen oder einer politischen Institution (siehe Nodeattribute)
 
-**from**
+**from**    
 initiierender Knoten, in diesem Fall: PolitikerIn
 
 **to**
