@@ -23,6 +23,25 @@ Beziehungssart (xxx)
 7 = Studien- bzw. längere Aufenthalte in In- und Ausland.
 
 
+
+
+
+Codebuch Relationship:
+1 = Achtung: Regierung umfasst auch Staatsekretäre und das Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende Ministerium angegeben werden.
+
+2 = aktuelle und ehemalige politische Funktionen in politischen Ausschüssen, Gremien und der Partei. etc. Das können auch frühere Stationen gewesen sein, z.B. Geschäftsführer:in einer Partei, etc.
+
+3 = umfasst alle Mitgliedschaften in NGOs, Stiftungen, Gedenkstätten, etc: werden im Bundestagsprofil als Körperschaften öffentlichen Rechts bezeichnet.
+
+4 = Beteiligung an Unternehmen durch Mandate, etwa Aufsichtsratsmandate, Gremien, etc.
+
+5 = erhalten Stipendien (egal wann), etwa Deutsche Studienstiftung, Parteinahe Stiftungen, Internationale Organisationen im In- und Ausland etc.
+
+6 = ausgeübte Berufstätigkeiten, falls vorhanden
+
+7 = Studien- bzw. (längere) Aufenthaltsort(e) in In- und Ausland
+
+
 **Jahr der Erhebung**
 (wann wurde diese Verbindung ermittelt)
 
@@ -32,16 +51,16 @@ Beziehungssart (xxx)
 Identische ID wie aus der edgelist zur Identifikation der Knoten. 
 
 
-**type**  
+**type**   
 Knotentyp 
 
 1 = Person   
 2 = Institution
 
-**name**
+**name**      
 numerische ID
 
-**name_short**
+**name_short**     
 Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 
 **sex**     
@@ -61,8 +80,8 @@ Geburtsjahr eintragen
 4 = andere  
 
 
-**education**
-()
+**education**    
+(höchster Bildungsabschluss)
 
 1 = mittlere Reife   
 2 = Fachhochschulreife   
@@ -86,7 +105,8 @@ Geburtsjahr eintragen
 
 
 
-**position**
+**position**       
+(jetzige Position)
 
 
 **party**
