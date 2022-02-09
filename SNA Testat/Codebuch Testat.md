@@ -43,7 +43,7 @@ Beziehungssart (xxx)
 
 
 **Jahr der Erhebung**    
-(wann wurde diese Verbindung ermittelt)
+(Bezieht sich auf das Jahr, in dem die Variable relationship erhoben wurde)
 
 
 
