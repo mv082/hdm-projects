@@ -49,7 +49,7 @@ Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 2 = männlich  
 3 = divers
 
-**birth**
+**birth**    
 Geburtsjahr eintragen
 
 
@@ -93,12 +93,12 @@ Geburtsjahr eintragen
 
 **party**
 
-1 = CDU/CSU
-2 = SPD
-3 = Grüne
-4 = Linke
-5 = FDP
-6 = AfD
+1 = CDU/CSU   
+2 = SPD    
+3 = Grüne     
+4 = Linke     
+5 = FDP      
+6 = AfD       
 
 
 
