@@ -31,10 +31,6 @@ Beziehungssart (xxx)
 **id**  
 Identische ID wie aus der edgelist zur Identifikation der Knoten. 
 
-**type**
-1 = Person
-2 = Institution
-
 
 **type**  
 Knotentyp 
@@ -55,6 +51,14 @@ Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 
 **birth**
 Geburtsjahr eintragen
+
+
+**religion**     
+1 = römisch-katholisch  
+2 = protestantisch  
+3 = islamisch
+
+
 
 
 **religion**
