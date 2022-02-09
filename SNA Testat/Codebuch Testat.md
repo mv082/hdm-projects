@@ -63,6 +63,7 @@ Geburtsjahr eintragen
 
 **education**
 ()
+
 1 = mittlere Reife   
 2 = Fachhochschulreife   
 3 = Abitur    
@@ -77,6 +78,7 @@ Geburtsjahr eintragen
 
 1 = Technik   
 2 = Naturwissenschaften
+
 3 = Medizin    
 4 = Medien, Werbung, Marketing, PR  
 5 = Soziales 
