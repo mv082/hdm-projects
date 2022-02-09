@@ -53,12 +53,13 @@ Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 Geburtsjahr eintragen
 
 
-**religion**     
-1 = römisch-katholisch  
-2 = protestantisch  
-3 = islamisch
-4 = jüdisch
-5 = andere
+
+**religion**    
+
+1 = römisch-katholisch,   
+2 = protestantisch,   
+3 = islamisch,   
+4 = andere.
 
 
 
