@@ -74,7 +74,6 @@ Geburtsjahr eintragen
 
 
 **religion**    
-
 1 = römisch-katholisch   
 2 = protestantisch   
 3 = islamisch    
@@ -94,8 +93,7 @@ Geburtsjahr eintragen
 
 
 
-**subject**
-
+**subject**    
 1 = Technik   
 2 = Naturwissenschaften     
 3 = Medizin    
@@ -110,8 +108,7 @@ Geburtsjahr eintragen
 (jetzige Position)
 
 
-**party**
-
+**party**     
 1 = CDU/CSU   
 2 = SPD    
 3 = Grüne     
