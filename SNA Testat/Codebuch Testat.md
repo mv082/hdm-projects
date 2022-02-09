@@ -77,7 +77,7 @@ Geburtsjahr eintragen
 
 1 = Technik   
 2 = Naturwissenschaften
-3 = Mediziin    
+3 = Medizin    
 4 = Medien, Werbung, Marketing, PR  
 5 = Soziales 
 6 = Jura   
