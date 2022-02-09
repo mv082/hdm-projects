@@ -77,11 +77,10 @@ Geburtsjahr eintragen
 **subject**
 
 1 = Technik   
-2 = Naturwissenschaften
-
+2 = Naturwissenschaften     
 3 = Medizin    
 4 = Medien, Werbung, Marketing, PR  
-5 = Soziales 
+5 = Soziales     
 6 = Jura   
 7 = Beamtentum (Verwaltung)  
 
