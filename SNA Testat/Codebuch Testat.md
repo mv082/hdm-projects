@@ -53,35 +53,35 @@ Geburtsjahr eintragen
 
 **religion**
 
-1= römisch-katholisch	
-2= protestantisch	
-3= islamisch	
-4= jüdisch	
-5= buddhistisch	
-6= andere	
+1 = römisch-katholisch	
+2 = protestantisch	
+3 = islamisch	
+4 = jüdisch	
+5 = buddhistisch	
+6 = andere	
 
 
 
 **education**
 ()
-1= mittlere Reife		
-2= Fachhochschulreife		
-3= Abitur		
-4= Fachhochschulabschluss		
-5= universitärer Abschluss		
-6= Promotion		
-7= abgeschlossene Berufsausbildung		
+1 = mittlere Reife		
+2 = Fachhochschulreife		
+3 = Abitur		
+4 = Fachhochschulabschluss		
+5 = universitärer Abschluss		
+6 = Promotion		
+7 = abgeschlossene Berufsausbildung		
 
 
 **subject**
 
-1= Technik	
-2= Naturwissenschaften	
-3= Medizin	
-4= Medien, Werbung, Marketing	
-5= Soziales	
-6= Jura	
-7= Beamtentum (Verwaltung)	
+1 = Technik	
+2 = Naturwissenschaften	
+3 = Medizin	
+4 = Medien, Werbung, Marketing	
+5 = Soziales	
+6 = Jura	
+7 = Beamtentum (Verwaltung)	
 
 
 
@@ -95,32 +95,37 @@ Geburtsjahr eintragen
 
 **party**
 
-1=CDU/CSU
-2=SPD
-3=Grüne
-4=Linke
-5=FDP
-6=AfD
+1 = CDU/CSU
+2 = SPD
+3 = Grüne
+4 = Linke
+5 = FDP
+6 = AfD
 
 
 
 **kids**
+
 Anzahl der Kinder
 
 
 **twitter**
+
 Anzahl der FollowerInnen
 
 
 **instagram**
+
 Anzahl FollowerInnen
 
 
 **facebook**
+
 Anzahl FollowerInnen
 
 
 **youtube**
+
 Anzahl AbonenntInnen
 
 
