@@ -57,18 +57,9 @@ Geburtsjahr eintragen
 1 = römisch-katholisch  
 2 = protestantisch  
 3 = islamisch
+4 = jüdisch
+5 = andere
 
-
-
-
-**religion**
-
-1 = römisch-katholisch	
-2 = protestantisch	
-3 = islamisch	
-4 = jüdisch	
-5 = buddhistisch	
-6 = andere	
 
 
 
