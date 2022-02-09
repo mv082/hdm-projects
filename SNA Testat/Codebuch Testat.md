@@ -23,7 +23,7 @@ Beziehungssart (xxx)
 7 = Studien- bzw. längere Aufenthalte in In- und Ausland.
 
 **type**  
-Beziehungsstärke aufgrund der Nennung in den Fragen)  
+Knotentyp 
 1 = Person   
 2 = Institution
 
