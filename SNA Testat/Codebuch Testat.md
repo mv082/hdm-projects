@@ -56,10 +56,10 @@ Geburtsjahr eintragen
 
 **religion**    
 
-1 = römisch-katholisch,   
-2 = protestantisch,   
-3 = islamisch,   
-4 = andere.
+1 = römisch-katholisch   
+2 = protestantisch   
+3 = islamisch    
+4 = andere  
 
 
 
