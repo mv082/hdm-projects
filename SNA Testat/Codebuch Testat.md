@@ -67,7 +67,8 @@ numerische ID
 **name_short**     
 Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 
-**sex**     
+**sex**    
+(Geschlecht)   
 1 = weiblich  
 2 = männlich  
 3 = divers
@@ -76,7 +77,8 @@ Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 Geburtsjahr eintragen
 
 
-**religion**    
+**religion**   
+(Religionszugehörigkeit)      
 1 = römisch-katholisch   
 2 = protestantisch   
 3 = islamisch    
@@ -84,8 +86,7 @@ Geburtsjahr eintragen
 
 
 **education**    
-(höchster Bildungsabschluss)
-
+(höchster Bildungsabschluss)    
 1 = mittlere Reife   
 2 = Fachhochschulreife   
 3 = Abitur    
@@ -96,7 +97,8 @@ Geburtsjahr eintragen
 
 
 
-**subject**    
+**subject**   
+(Fachrichtung bei Studium/Promotion)   
 1 = Technik   
 2 = Naturwissenschaften     
 3 = Medizin    
@@ -112,6 +114,7 @@ Geburtsjahr eintragen
 
 
 **party**     
+(Parteizugehörigkeit)   
 1 = CDU/CSU   
 2 = SPD    
 3 = Grüne     
