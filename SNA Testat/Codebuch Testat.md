@@ -63,9 +63,6 @@ Geburtsjahr eintragen
 
 **education**
 ()
-
-
-
 1 = mittlere Reife   
 2 = Fachhochschulreife   
 3 = Abitur    
@@ -76,26 +73,21 @@ Geburtsjahr eintragen
 
 
 
-
-
 **subject**
 
-1 = Technik	
-2 = Naturwissenschaften	
-3 = Medizin	
-4 = Medien, Werbung, Marketing	
-5 = Soziales	
-6 = Jura	
-7 = Beamtentum (Verwaltung)	
+1 = Technik   
+2 = Naturwissenschaften
+3 = Mediziin    
+4 = Medien, Werbung, Marketing, PR  
+5 = Soziales 
+6 = Jura   
+7 = Beamtentum (Verwaltung)  
+
 
 
 
 
 **position**
-
-
-
-
 
 
 **party**
