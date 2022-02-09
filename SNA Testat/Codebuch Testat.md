@@ -24,6 +24,7 @@ Beziehungssart (xxx)
 
 **type**  
 Knotentyp 
+
 1 = Person   
 2 = Institution
 
