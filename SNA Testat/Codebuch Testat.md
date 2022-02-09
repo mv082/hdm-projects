@@ -1,4 +1,4 @@
-# Codebuch
+## Codebuch ##
 
 # EDGE-Attribute
 
@@ -13,14 +13,14 @@ initiierender Knoten, in diesem Fall: PolitikerIn
 
 **relationship**  
 Beziehungssart (xxx)
-1= Ministerium/ Staatssekretär
 
-2= politische Funktionen ,
-3= Ehrenamt ,			
-4= Unternehmen und Aufsichtsräte ,
-5= Stipendien ,			
-6= Berufstätigkeiten ,		
-7= Studien- bzw. längere Aufenthalte in In- und Ausland.
+1 = Ministerium/ Staatssekretär
+2 = politische Funktionen
+3 = Ehrenamt		
+4 = Unternehmen und Aufsichtsräte
+5 = Stipendien			
+6 = Berufstätigkeiten	
+7 = Studien- bzw. längere Aufenthalte in In- und Ausland.
 
 **Jahr der Erhebung**
 (wann wurde diese Verbindung ermittelt)
@@ -31,15 +31,13 @@ Beziehungssart (xxx)
 Identische ID wie aus der edgelist zur Identifikation der Knoten. 
 
 **type**
-1= Person
-2= Institution
+1 = Person
+2 = Institution
 
 **name**
-
 numerische ID
 
-**name_shortt**
-
+**name_short**
 Vorname abgekürzt, z.B. für Visualiserung, falls der Name zu lange ist
 
 **sex**     
