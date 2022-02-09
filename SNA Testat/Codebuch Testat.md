@@ -27,6 +27,7 @@ Beziehungssart (xxx)
 
 
 Codebuch Relationship:
+
 1 = Achtung: Regierung umfasst auch Staatsekretäre und das Bundeskanzleramt, etc. hier sollte als Knoten das entsprechende Ministerium angegeben werden.       
 
 2 = aktuelle und ehemalige politische Funktionen in politischen Ausschüssen, Gremien und der Partei. etc. Das können auch frühere Stationen gewesen sein, z.B. Geschäftsführer:in einer Partei, etc.
