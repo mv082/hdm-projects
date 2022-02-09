@@ -1,6 +1,6 @@
-## Codebuch ##
+# Codebuch #
 
-# EDGE-Attribute
+## EDGE-Attribute
 
 **id**  
 (eindeutige Codierung des Knoten)   
