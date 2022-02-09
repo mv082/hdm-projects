@@ -22,11 +22,6 @@ Beziehungssart (xxx)
 6 = Berufstätigkeiten	
 7 = Studien- bzw. längere Aufenthalte in In- und Ausland.
 
-**type**  
-Knotentyp 
-
-1 = Person   
-2 = Institution
 
 **Jahr der Erhebung**
 (wann wurde diese Verbindung ermittelt)
@@ -38,6 +33,13 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten.
 
 **type**
 1 = Person
+2 = Institution
+
+
+**type**  
+Knotentyp 
+
+1 = Person   
 2 = Institution
 
 **name**
