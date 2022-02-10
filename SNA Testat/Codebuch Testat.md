@@ -58,8 +58,8 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten.
 **type**   
 Knotentyp 
 
-1 = Person   
-2 = Institution
+0 = Person   
+1 = Institution, Ort, Verband
 
 **name**      
 numerische ID
