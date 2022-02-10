@@ -114,7 +114,9 @@ Geburtsjahr eintragen
 
 
 **position**       
-(jetzige Position)
+(jetzige Position)   
+1 = MinisterIn    
+2 = ParlamentarischeR StaatssekretärIn  
 
 
 **party**     
