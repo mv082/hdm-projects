@@ -116,12 +116,10 @@ Geburtsjahr eintragen
 
 **party**     
 (Parteizugehörigkeit)   
-1 = CDU/CSU   
-2 = SPD    
-3 = Grüne     
-4 = Linke     
-5 = FDP      
-6 = AfD       
+1 = SPD   
+2 = Grüne    
+3 = FDP     
+    
 
 
 
