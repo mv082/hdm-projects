@@ -105,7 +105,8 @@ Geburtsjahr eintragen
 4 = Medien, Werbung, Marketing, PR  
 5 = Soziales     
 6 = Jura   
-7 = Beamtentum (Verwaltung)  
+7 = Beamtentum (Verwaltung)   
+8 = Politikwissenschaften   
 
 
 
