@@ -103,14 +103,13 @@ Geburtsjahr eintragen
 
 **subject**   
 (Fachrichtung bei Studium/Promotion)   
-1 = Ingenieurwesen   
-2 = Naturwissenschaften     
+1 = Politikwissenschaften   
+2 = Jura     
 3 = BWL    
 4 = Medien, Werbung, Marketing, PR  
 5 = Soziales     
-6 = Jura   
-7 = Beamtentum (Verwaltung)   
-8 = Politikwissenschaften   
+6 = Beamtentum (Verwaltung)   
+   
 
 
 
