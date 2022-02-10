@@ -9,7 +9,11 @@ codiert von 1 bis xx, jede ID entspricht PolitikerInnen oder einer politischen I
 **from**    
 initiierender Knoten, in diesem Fall: PolitikerIn
 
-**to**
+**to**   
+Zielknoten, in diesem Fall: Unternehmen, Orte, Verbände, Institutionen usw.
+
+
+
 
 **relationship**  
 Beziehungssart (xxx)
