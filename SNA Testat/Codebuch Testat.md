@@ -82,7 +82,7 @@ Geburtsjahr eintragen
 1 = römisch-katholisch   
 2 = protestantisch   
 3 = islamisch    
-4 = andere  
+
 
 
 **education**    
@@ -99,9 +99,9 @@ Geburtsjahr eintragen
 
 **subject**   
 (Fachrichtung bei Studium/Promotion)   
-1 = Technik   
+1 = Ingenieurwesen   
 2 = Naturwissenschaften     
-3 = Medizin    
+3 = BWL    
 4 = Medien, Werbung, Marketing, PR  
 5 = Soziales     
 6 = Jura   
