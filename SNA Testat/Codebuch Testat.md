@@ -22,9 +22,9 @@ Beziehungssart (xxx)
 2 = politische Funktionen     
 3 = Ehrenamt		    
 4 = Unternehmen und Aufsichtsräte        
-5 = Stipendien	                 		
-6 = Berufstätigkeiten	
+5 = Stipendien	
 
+6 = Berufstätigkeiten	
 7 = Studien- bzw. längere Aufenthalte in In- und Ausland.
 
 
