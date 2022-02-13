@@ -1,4 +1,4 @@
-id;name_short;name;type;sex;birth;position;education;subject;party;religion;kids;twitter;instagram;facebook;youtube
+id,name_short,name,type,sex,birth,position,educatio,subject,party,religion,kids,twitter,instagram,facebook,youtube
 1;FB;Franziska_Brantner,0,2,1979,2,6,1,2,,1,14000,4474,2747,26
 2,FT;Florian_Toncar,0,1,1979,2,6,2,3,2,3,8591,3072,4476,99
 3,RSS,Rita_Schwarzelühr-Sütter,0,2,1962,2,5,3,1,1,2,4253,1534,2940,17
