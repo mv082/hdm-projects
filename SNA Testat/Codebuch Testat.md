@@ -121,9 +121,9 @@ Geburtsjahr eintragen
 
 **party**     
 (Parteizugehörigkeit)   
-1 = SPD   
-2 = Grüne    
-3 = FDP     
+S = SPD   
+G = Grüne    
+F = FDP     
     
 
 
